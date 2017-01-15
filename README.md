@@ -1,8 +1,4 @@
 # oose_0324087
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 |  班級 | 學號 | 姓名 | 貢獻 | 工作 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
